@@ -25,3 +25,7 @@ The demo can then be accessed at http://localhost:1234/
 - Make edits to `index.html`
 - Run `yarn build`
 - Push to `origin/main`
+
+## Publish
+
+- ghp-import -n -p -f ./public
