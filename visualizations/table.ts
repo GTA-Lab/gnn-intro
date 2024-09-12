@@ -66,8 +66,8 @@ export class Table {
           <div> Cora </div>
           <div> Citation network </div>
           <div> 1 </div>
-          <div> 23,166 </div>
-          <div> 91,500 </div>
+          <div> 2,708 </div>
+          <div> 10,556 </div>
           <div> 1 </div>
           <div> 7.8 </div>
           <div> 379 </div>
